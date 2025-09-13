@@ -1,7 +1,11 @@
-# C-Programming-Lab
-This is my Repository creation on GitHub to check functionality of GitHub and its usage. 
+# My First repository 
+This is **bold text**
+This is *italic text*
+This is ~~Strikethrough text~~
+[] Task 1
+[] Task 2
+[] Task 3
+#code example
+'''bash
+git status
 
-- C#
-- C++
-- Python
-- Rust
